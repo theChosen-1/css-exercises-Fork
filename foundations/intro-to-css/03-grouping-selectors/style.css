@@ -1,0 +1,14 @@
+.leftClick,
+.rightClick {
+    font-size: 28px;
+    font: Helvetica, Times New Roman, sans-serif;
+}
+
+.leftClick {
+    background-color: black;
+    color: white;
+}
+
+.rightClick {
+    background-color: yellow;
+}
